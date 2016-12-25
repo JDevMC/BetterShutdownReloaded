@@ -2,7 +2,7 @@
 BetterShutdown is a plugin that makes your server restarts and stops look better for your players.
 It kicks all players to a predefined list of lobbies randomly, with a customizable message sent to them.
 
-## Configuration
+## Configuration file
 The plugin offers some customization via the config file. That includes the ability to change the messages sent when someone joins and the server is kicking everyone out to the lobbies, the message sent to the players when they are sent to the lobby. And the ability to change the amount of time the server has to kick all online players, which is very useful for servers with a high amount of players.
 ```yaml
 # In here, you'll need to place a list of servers the players will be kicked to
