@@ -9,6 +9,7 @@ I'm planning to add a lot new features to this project, and you can suggest more
 - [ ] Add an auto updater so you won't have to worry of being up to date
 - [ ] Adding variables on leave and stop messages
 - [ ] Add the posibility to set specific servers for sepecific ranks
+
 **NOTE:***All plans mentioned here can change in order, can change the way they work or they can even be removed from the roadmap.*
 
 ## Configuration file
