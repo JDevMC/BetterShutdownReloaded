@@ -10,7 +10,7 @@ I'm planning to add a lot new features to this project, and you can suggest more
 - [ ] Adding variables on leave and stop messages
 - [ ] Add the posibility to set specific servers for sepecific ranks
 
-**NOTE:***All plans mentioned here can change in order, can change the way they work or they can even be removed from the roadmap.*
+**NOTE:** *All plans mentioned here can change in order, can change the way they work or they can even be removed from the roadmap.*
 
 ## Configuration file
 The plugin offers some customization via the config file. That includes the ability to change the messages sent when someone joins and the server is kicking everyone out to the lobbies, the message sent to the players when they are sent to the lobby. And the ability to change the amount of time the server has to kick all online players, which is very useful for servers with a high amount of players.
